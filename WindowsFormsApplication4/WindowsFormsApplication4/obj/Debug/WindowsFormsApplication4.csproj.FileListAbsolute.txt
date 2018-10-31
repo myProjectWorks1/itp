@@ -1,0 +1,205 @@
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\air-pc\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\AIR-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\AIR-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AIR-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reserve.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.register.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.sr.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.status1.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.cost.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MaterialSkin.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.dll
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\ASUS-PC\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+J:\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SACHINTHANA\Desktop\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.xml
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlashControlV71.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\stdole.dll
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employeehandle1.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\nethmi\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\FlashControlV71.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\stdole.dll
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employeehandle1.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employee_attendance.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Attendenc.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loan.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.salary.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.report.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_details.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.reports.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.employee_manage.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nethmi\Desktop\salindra_final\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nethmi\Desktop\salindra_final\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nethmi\Desktop\salindra_final\Kiriya\kanuu-correct - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
